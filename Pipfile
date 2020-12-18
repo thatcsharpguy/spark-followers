@@ -9,6 +9,9 @@ verify_ssl = true
 twython = "*"
 click = "*"
 jupyter = "*"
+networkx = "*"
+matplotlib = "*"
+graphviz = "*"
 
 [requires]
 python_version = "3.6"
